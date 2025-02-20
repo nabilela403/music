@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "MTM0MjA2MzgwOTc3ODY3OTgzOA.GK_IKE.ryadEW601SS4lowEb1nCrFUoIvz2hC7O7Bo_wQ",
+  TOKEN: "",
   language: "en",
   ownerID: ["1110294975742214225"], 
   mongodbUri : "mongodb+srv://Pel1Gro:udG8qFzhRY9nNrBW@ghosts.nctcmlj.mongodb.net/?retryWrites=true&w=majority&appName=Ghosts",
