@@ -1,18 +1,18 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTM0MjA2MzgwOTc3ODY3OTgzOA.GK_IKE.ryadEW601SS4lowEb1nCrFUoIvz2hC7O7Bo_wQ",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  ownerID: ["1110294975742214225"], 
+  mongodbUri : "mongodb+srv://Pel1Gro:udG8qFzhRY9nNrBW@ghosts.nctcmlj.mongodb.net/?retryWrites=true&w=majority&appName=Ghosts",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
-  embedColor: "#1db954",
+  embedColor: "#333339",
   activityName: "YouTube Music", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "https://discord.gg/8fuFy4hhvr",
   embedTimeout: 5, 
-  errorLog: "", 
+  errorLog: "1191038609273397380", 
   nodes: [
      {
       name: "Koi Node V4",
